@@ -1,0 +1,20 @@
+{
+  "name": "Lockf0rc/Util",
+  "description": "Utility functions and class-methods",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "lockf0rc",
+      "email": "lockf0rc@scriptrefernce.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "5.3.x-dev"
+  },
+  "autoload":{
+    "psr-4":{"lockf0rc\\Util\\":"lib/"}
+  }
+
+
+}
